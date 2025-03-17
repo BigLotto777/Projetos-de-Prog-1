@@ -1,2 +1,2 @@
 # Projetos-de-Prog-1
-Projetos Prog 1 (C)
+Projetos desenvolvidos na matéria de programção 1 na linguagem C 
